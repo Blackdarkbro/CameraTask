@@ -58,8 +58,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Player1Movement.cs" />
-     <Compile Include="Assets\Player2Movement1.cs" />
+     <Compile Include="Assets\scripts\Mirror.cs" />
+     <Compile Include="Assets\scripts\Player1Movement.cs" />
+     <Compile Include="Assets\scripts\Player2Movement1.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/egorsa/Desktop/CameraTask/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

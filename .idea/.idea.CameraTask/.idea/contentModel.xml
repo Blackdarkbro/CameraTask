@@ -4,8 +4,11 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Player1Movement.cs" t="Include" />
-        <e p="Player2Movement1.cs" t="Include" />
+        <e p="scripts" t="Include">
+          <e p="Mirror.cs" t="Include" />
+          <e p="Player1Movement.cs" t="Include" />
+          <e p="Player2Movement1.cs" t="Include" />
+        </e>
       </e>
       <e p="CameraTask.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
